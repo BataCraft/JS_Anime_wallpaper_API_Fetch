@@ -1,0 +1,7 @@
+# Handle line endings automatically for files detected as text
+* text=auto
+
+# Explicitly set line endings for certain types of files
+*.js text
+*.css text
+*.json text
